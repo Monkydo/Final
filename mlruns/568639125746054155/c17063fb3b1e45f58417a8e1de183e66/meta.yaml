@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/c17063fb3b1e45f58417a8e1de183e66/artifacts
+end_time: 1698275373360
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: c17063fb3b1e45f58417a8e1de183e66
+run_name: Extra Trees Classifier
+run_uuid: c17063fb3b1e45f58417a8e1de183e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275373143
+status: 3
+tags: []
+user_id: Daniel

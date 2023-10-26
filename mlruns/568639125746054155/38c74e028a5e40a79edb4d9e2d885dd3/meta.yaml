@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/38c74e028a5e40a79edb4d9e2d885dd3/artifacts
+end_time: 1698274982424
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 38c74e028a5e40a79edb4d9e2d885dd3
+run_name: Lasso Least Angle Regression
+run_uuid: 38c74e028a5e40a79edb4d9e2d885dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274982101
+status: 3
+tags: []
+user_id: Daniel

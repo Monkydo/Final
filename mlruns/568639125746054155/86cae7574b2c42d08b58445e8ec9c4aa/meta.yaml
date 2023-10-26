@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/86cae7574b2c42d08b58445e8ec9c4aa/artifacts
+end_time: 1698275665994
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 86cae7574b2c42d08b58445e8ec9c4aa
+run_name: Linear Discriminant Analysis
+run_uuid: 86cae7574b2c42d08b58445e8ec9c4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275665476
+status: 3
+tags: []
+user_id: Daniel

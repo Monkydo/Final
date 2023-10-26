@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/947b3fdc8a0f4b289e5478be37c305a4/artifacts
+end_time: 1698275371902
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 947b3fdc8a0f4b289e5478be37c305a4
+run_name: Ridge Classifier
+run_uuid: 947b3fdc8a0f4b289e5478be37c305a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275371695
+status: 3
+tags: []
+user_id: Daniel

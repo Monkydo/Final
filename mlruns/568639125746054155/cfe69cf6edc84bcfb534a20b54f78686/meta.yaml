@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/cfe69cf6edc84bcfb534a20b54f78686/artifacts
+end_time: 1698275974612
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: cfe69cf6edc84bcfb534a20b54f78686
+run_name: Dummy Classifier
+run_uuid: cfe69cf6edc84bcfb534a20b54f78686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275974106
+status: 3
+tags: []
+user_id: Daniel

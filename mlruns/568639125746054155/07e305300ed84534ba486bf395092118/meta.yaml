@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/07e305300ed84534ba486bf395092118/artifacts
+end_time: 1698274985915
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 07e305300ed84534ba486bf395092118
+run_name: Random Forest Regressor
+run_uuid: 07e305300ed84534ba486bf395092118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274985679
+status: 3
+tags: []
+user_id: Daniel

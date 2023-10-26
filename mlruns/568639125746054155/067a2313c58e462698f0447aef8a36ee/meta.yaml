@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/067a2313c58e462698f0447aef8a36ee/artifacts
+end_time: 1698276106120
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 067a2313c58e462698f0447aef8a36ee
+run_name: Quadratic Discriminant Analysis
+run_uuid: 067a2313c58e462698f0447aef8a36ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276105615
+status: 3
+tags: []
+user_id: Daniel

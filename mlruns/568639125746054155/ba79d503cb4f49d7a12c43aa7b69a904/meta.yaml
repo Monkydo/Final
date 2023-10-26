@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/ba79d503cb4f49d7a12c43aa7b69a904/artifacts
+end_time: 1698276098689
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: ba79d503cb4f49d7a12c43aa7b69a904
+run_name: Ada Boost Classifier
+run_uuid: ba79d503cb4f49d7a12c43aa7b69a904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276098185
+status: 3
+tags: []
+user_id: Daniel

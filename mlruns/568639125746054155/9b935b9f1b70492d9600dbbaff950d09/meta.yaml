@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/9b935b9f1b70492d9600dbbaff950d09/artifacts
+end_time: 1698274983326
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 9b935b9f1b70492d9600dbbaff950d09
+run_name: Orthogonal Matching Pursuit
+run_uuid: 9b935b9f1b70492d9600dbbaff950d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274983120
+status: 3
+tags: []
+user_id: Daniel

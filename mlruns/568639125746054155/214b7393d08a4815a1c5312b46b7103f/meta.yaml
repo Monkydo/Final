@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/214b7393d08a4815a1c5312b46b7103f/artifacts
+end_time: 1698274524046
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 214b7393d08a4815a1c5312b46b7103f
+run_name: Decision Tree Regressor
+run_uuid: 214b7393d08a4815a1c5312b46b7103f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274523827
+status: 3
+tags: []
+user_id: Daniel

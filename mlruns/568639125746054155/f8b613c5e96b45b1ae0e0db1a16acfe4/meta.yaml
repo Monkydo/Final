@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/f8b613c5e96b45b1ae0e0db1a16acfe4/artifacts
+end_time: 1698276101270
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: f8b613c5e96b45b1ae0e0db1a16acfe4
+run_name: SVM - Linear Kernel
+run_uuid: f8b613c5e96b45b1ae0e0db1a16acfe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276100815
+status: 3
+tags: []
+user_id: Daniel

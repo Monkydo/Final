@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/19c9386e9f254665817175b9ebd765ba/artifacts
+end_time: 1698274522201
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 19c9386e9f254665817175b9ebd765ba
+run_name: AdaBoost Regressor
+run_uuid: 19c9386e9f254665817175b9ebd765ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274521988
+status: 3
+tags: []
+user_id: Daniel

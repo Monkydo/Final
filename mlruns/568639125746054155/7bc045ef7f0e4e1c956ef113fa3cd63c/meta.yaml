@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/7bc045ef7f0e4e1c956ef113fa3cd63c/artifacts
+end_time: 1698274987771
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 7bc045ef7f0e4e1c956ef113fa3cd63c
+run_name: Passive Aggressive Regressor
+run_uuid: 7bc045ef7f0e4e1c956ef113fa3cd63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274987524
+status: 3
+tags: []
+user_id: Daniel

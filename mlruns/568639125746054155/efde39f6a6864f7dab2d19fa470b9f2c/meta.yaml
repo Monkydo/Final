@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/efde39f6a6864f7dab2d19fa470b9f2c/artifacts
+end_time: 1698274984430
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: efde39f6a6864f7dab2d19fa470b9f2c
+run_name: Linear Regression
+run_uuid: efde39f6a6864f7dab2d19fa470b9f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274984227
+status: 3
+tags: []
+user_id: Daniel

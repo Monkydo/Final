@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/dbd1adfabc4542748c2d99bdb0581493/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: dbd1adfabc4542748c2d99bdb0581493
+run_name: Session Initialized d0aa
+run_uuid: dbd1adfabc4542748c2d99bdb0581493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275328675
+status: 1
+tags: []
+user_id: Daniel

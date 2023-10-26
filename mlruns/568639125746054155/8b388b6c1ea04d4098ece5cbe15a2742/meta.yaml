@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/8b388b6c1ea04d4098ece5cbe15a2742/artifacts
+end_time: 1698276209186
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 8b388b6c1ea04d4098ece5cbe15a2742
+run_name: Naive Bayes
+run_uuid: 8b388b6c1ea04d4098ece5cbe15a2742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276208717
+status: 3
+tags: []
+user_id: Daniel

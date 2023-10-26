@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/f50f43946da24e8b87b92afaca09dbb2/artifacts
+end_time: 1698274518991
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: f50f43946da24e8b87b92afaca09dbb2
+run_name: K Neighbors Regressor
+run_uuid: f50f43946da24e8b87b92afaca09dbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274518660
+status: 3
+tags: []
+user_id: Daniel

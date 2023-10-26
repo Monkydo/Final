@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/9b182929fce74492ad82c058e35be833/artifacts
+end_time: 1698276210554
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 9b182929fce74492ad82c058e35be833
+run_name: Decision Tree Classifier
+run_uuid: 9b182929fce74492ad82c058e35be833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276210066
+status: 3
+tags: []
+user_id: Daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/36831a29c98047089310159855fbfad0/artifacts
+end_time: 1698275984897
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 36831a29c98047089310159855fbfad0
+run_name: Gradient Boosting Classifier
+run_uuid: 36831a29c98047089310159855fbfad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275984309
+status: 3
+tags: []
+user_id: Daniel

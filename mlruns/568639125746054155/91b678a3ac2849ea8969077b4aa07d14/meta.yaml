@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/91b678a3ac2849ea8969077b4aa07d14/artifacts
+end_time: 1698274985160
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 91b678a3ac2849ea8969077b4aa07d14
+run_name: Huber Regressor
+run_uuid: 91b678a3ac2849ea8969077b4aa07d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274984938
+status: 3
+tags: []
+user_id: Daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/a0d0c2beb4a647858adcd4e578d20f54/artifacts
+end_time: 1698274986772
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: a0d0c2beb4a647858adcd4e578d20f54
+run_name: Light Gradient Boosting Machine
+run_uuid: a0d0c2beb4a647858adcd4e578d20f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274986536
+status: 3
+tags: []
+user_id: Daniel

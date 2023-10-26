@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/7b6bbe7f666b44428cef40c7b757ba81/artifacts
+end_time: 1698274520070
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 7b6bbe7f666b44428cef40c7b757ba81
+run_name: Ridge Regression
+run_uuid: 7b6bbe7f666b44428cef40c7b757ba81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274519864
+status: 3
+tags: []
+user_id: Daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/9d6be19b04b9419a99ec95c90a275032/artifacts
+end_time: 1698275989834
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 9d6be19b04b9419a99ec95c90a275032
+run_name: K Neighbors Classifier
+run_uuid: 9d6be19b04b9419a99ec95c90a275032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275989639
+status: 3
+tags: []
+user_id: Daniel

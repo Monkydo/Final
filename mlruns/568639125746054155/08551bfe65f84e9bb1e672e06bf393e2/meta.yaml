@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/08551bfe65f84e9bb1e672e06bf393e2/artifacts
+end_time: 1698275372991
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 08551bfe65f84e9bb1e672e06bf393e2
+run_name: Random Forest Classifier
+run_uuid: 08551bfe65f84e9bb1e672e06bf393e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698275372761
+status: 3
+tags: []
+user_id: Daniel

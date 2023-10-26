@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/68faeb6375644620bfb527ab8c67786a/artifacts
+end_time: 1698276089100
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 68faeb6375644620bfb527ab8c67786a
+run_name: Logistic Regression
+run_uuid: 68faeb6375644620bfb527ab8c67786a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698276088504
+status: 3
+tags: []
+user_id: Daniel

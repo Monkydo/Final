@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/9e46398387f148e8811ab9fd9e39a63c/artifacts
+end_time: 1698274982972
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 9e46398387f148e8811ab9fd9e39a63c
+run_name: Bayesian Ridge
+run_uuid: 9e46398387f148e8811ab9fd9e39a63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274982691
+status: 3
+tags: []
+user_id: Daniel

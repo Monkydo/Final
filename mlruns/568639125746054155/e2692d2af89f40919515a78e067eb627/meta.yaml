@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/e2692d2af89f40919515a78e067eb627/artifacts
+end_time: 1698274516793
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: e2692d2af89f40919515a78e067eb627
+run_name: Lasso Regression
+run_uuid: e2692d2af89f40919515a78e067eb627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274516230
+status: 3
+tags: []
+user_id: Daniel

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Daniel/Documents/Especializaci%C3%B3n_IA/MLOPS/Final/mlruns/568639125746054155/5aaae5ca77c24a9a801282d4de3ffe18/artifacts
+end_time: 1698274517161
+entry_point_name: ''
+experiment_id: '568639125746054155'
+lifecycle_stage: active
+run_id: 5aaae5ca77c24a9a801282d4de3ffe18
+run_name: Elastic Net
+run_uuid: 5aaae5ca77c24a9a801282d4de3ffe18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698274516923
+status: 3
+tags: []
+user_id: Daniel
