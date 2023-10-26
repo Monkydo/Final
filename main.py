@@ -6,12 +6,22 @@ from sklearn.metrics import roc_auc_score, average_precision_score, accuracy_sco
     f1_score
 from sklearn.model_selection import train_test_split
 import joblib
+import os
 
 # Consts
 CLASS_LABEL = 'Heart Attack Risk'
 train_df_path = 'data/train.csv.zip'
 test_df_path = 'data/test.csv.zip'
 
+# set env variables
+os.environ['MLFLOW_TRACKING_USERNAME'] = 'danielmoncada.colab'
+os.environ['MLFLOW_TRACKING_PASSWORD'] = 'b24e79742dc081b7e934dda90d1ff57c1d64315d'
+os.environ['MLFLOW_TRACKING_URI'] = 'https://dagshub.com/danielmoncada.colab/Final.mlflow'
+os.environ["PYCARET_CUSTOM_LOGGING_LEVEL"] = "CRITICAL"
+
+# set mlflow tracking uri
+import mlflow
+mlflow.set_tracking_uri("https://dagshub.com/danielmoncada.colab/Final.mlflow")
 
 def feature_engineering(raw_df):
     df = raw_df.copy()
